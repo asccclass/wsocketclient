@@ -1,0 +1,5 @@
+BOT_USER_ID=userID
+BOT_DISPLAY_NAME=displayName
+BOT_CHANNEL=channel
+WEBSOCKET_BASE_URL=websocketURL
+OPENCLAW_BIN=openclawBin
